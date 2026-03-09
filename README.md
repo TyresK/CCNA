@@ -16,7 +16,9 @@ No configurations were performed in this lab — the focus was on device identif
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/><img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/0ff37d80-9cad-4370-b85b-427d8403e7ad" />
+Launch the utility: <br/><img width="1920" height="1017" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/2cb4020a-c70e-4b95-812c-dc48c5867bcd" />
+
+
 
 <br />
 <br />
@@ -26,7 +28,13 @@ Once the utility was launched, I analyzed the network toplogy.  <br/>
 Analyzing the network topology, I saw that it was a simple WAN topology, with a minimal amount of devices, such as two routers, two switches, two firewalls, two servers, and two pc's. <br/>
 <br />
 <br />
-The next step in this lab was to connect two devices using the correct cable. Because I had to connect a switch to a router, the correct cable to use in this scenario is a copper straight through cable:  <br/> <img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/1b37e6e3-b803-49a1-ade7-c48067235b8b" /><img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/5e3e7939-f9eb-41bb-9564-a2af1042e472" /><img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/3b354856-bfcc-4cd9-96fa-b037ac91f5fd" />
+The next step in this lab was to connect two devices using the correct cable. Because I had to connect a switch to a router, the correct cable to use in this scenario is a copper straight through cable:  <br/> <img width="1920" height="1017" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/b7d9ceeb-b7f5-4adb-a4e9-5b5e65aafc2a" /><img width="1920" height="1021" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/fdc9f06f-ad98-4c94-8135-87cfcdf8b32b" /><img width="1917" height="1017" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/0871c136-66e5-41f0-9638-589da9e3f6d8" />
+
+
+
+
+
+
 <br />
 <br />
 <br />
